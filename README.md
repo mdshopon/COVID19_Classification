@@ -15,5 +15,5 @@ X-Ray Image of a COVID-19 Affected Patient
 ![](/data_four_class/train/covid/1312A392-67A3-4EBF-9319-810CF6DA5EF6.jpeg)
 
 X-Ray Image of a Normal Patient
-![](/data_four_class/train/covid/NORMAL2-IM-1294-0001-0002.jpeg)
+![](/data_four_class/train/normal/NORMAL2-IM-1294-0001-0002.jpeg)
 
