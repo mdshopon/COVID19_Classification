@@ -62,9 +62,6 @@ y_test = np_utils.to_categorical(test_label, nb_classes)
 resnet_model = applications.resnet50.ResNet50(weights='imagenet',
                                include_top=False,
                                input_shape=(160, 160, 3))
-
-layer_dict = dict([(layer.name, layer) for layer in resnet_model.layers])
-
 x = resnet_model.output
 
 x = Conv2D(filters=64, kernel_size=(3, 3), activation='relu')(x)
