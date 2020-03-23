@@ -63,7 +63,7 @@ resnet_model = applications.resnet50.ResNet50(weights='imagenet',
                                include_top=False,
                                input_shape=(160, 160, 3))
 
-layer_dict = dict([(layer.name, layer) for layer in vgg_model.layers])
+layer_dict = dict([(layer.name, layer) for layer in resnet_model.layers])
 
 x = resnet_model.output
 
