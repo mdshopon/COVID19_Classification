@@ -12,7 +12,7 @@ I used RESNET-50 based transfer learning for training. As the dataset is fairly 
 
 Currently the dataset is divide evenly. 
 
-*Nummber of COVID Samples - 111 ( Train:80, Test: 31) 
+* Nummber of COVID Samples - 111 ( Train:80, Test: 31) 
 
 To balance the dataset, other class samples were taken according to the number of COVID Samples. 
 
