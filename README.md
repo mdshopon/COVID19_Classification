@@ -18,8 +18,8 @@ Requirements
 
 Below there are two samples of X Ray Images 
 
-<img src="normal_case.jpeg" width="200" height="200">
+
 
 A sample of COVID-19 X Ray Image           |  A sample of Normal X Ray Image 
 :-------------------------:|:-------------------------:
-<img src="covid_case.png" width="200" height="200"> |  <img src="normal_case.jpeg" width="200" height="200">
+<img src="covid_case.png" width="300" height="300"> |  <img src="normal_case.jpeg" width="300" height="300">
