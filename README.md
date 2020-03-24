@@ -16,6 +16,8 @@ Requirements
 - OpenCV
 - Numpy
 
+Below there are two samples of X Ray Images 
+
 * A sample of COVID-19 X Ray Image <br /> 
 ![A sample of COVID-19 X Ray Image ](covid_case.png)
 
