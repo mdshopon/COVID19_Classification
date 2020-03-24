@@ -2,7 +2,7 @@ from __future__ import print_function
 
 from keras.utils import np_utils
 from keras.preprocessing.image import ImageDataGenerator
-from tensorflow.keras.applications import VGG16
+#from tensorflow.keras.applications import VGG16
 from keras import applications
 import cv2 
 from os import listdir
@@ -63,7 +63,6 @@ resnet_model = applications.resnet50.ResNet50(weights='imagenet',
                                include_top=False,
                                input_shape=(160, 160, 3))
 
-layer_dict = dict([(layer.name, layer) for layer in vgg_model.layers])
 
 x = resnet_model.output
 
