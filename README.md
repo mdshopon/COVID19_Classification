@@ -17,5 +17,8 @@ Requirements
 - Numpy
 
 ![A sample of COVID-19 X Ray Image ](covid_case.png)
+Format: ![A sample of COVID-19 X Ray Image ](url)
 
 ![A sample of Normal X Ray Image ](normal_case.jpeg)
+Format: ![A sample of Normal X Ray Image ](url)
+
