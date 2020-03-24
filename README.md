@@ -18,10 +18,8 @@ Requirements
 
 Below there are two samples of X Ray Images 
 
-* A sample of COVID-19 X Ray Image <br /> 
-![A sample of COVID-19 X Ray Image ](covid_case.png)
-
-* A sample of Normal X Ray Image <br /> 
-![A sample of Normal X Ray Image ](normal_case.jpeg)
 
 
+A sample of COVID-19 X Ray Image           |  A sample of Normal X Ray Image 
+:-------------------------:|:-------------------------:
+![](covid_case.png)  |  ![](normal_case.jpeg)
