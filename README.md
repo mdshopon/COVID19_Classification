@@ -22,4 +22,4 @@ Below there are two samples of X Ray Images
 
 A sample of COVID-19 X Ray Image           |  A sample of Normal X Ray Image 
 :-------------------------:|:-------------------------:
-![](covid_case.png =250px)  |  ![](normal_case.jpeg =250px)
+![](covid_case.png =250x)  |  ![](normal_case.jpeg =250x)
